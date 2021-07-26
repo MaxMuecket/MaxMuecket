@@ -1,3 +1,5 @@
+<img src="Wallnut.jpg" alt="A walnut between a nutcracker"/>
+
 ## My Skill Set
 
 <table><tr><td valign="top" width="33%">
