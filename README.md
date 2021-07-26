@@ -1,5 +1,3 @@
-<img style="margin: 10px" src="/home/arne/dev/MaxMuecket/Wallnut.jpg" alt="Crack the nut"  />
-
 ## My Skill Set
 
 <table><tr><td valign="top" width="33%">
